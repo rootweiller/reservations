@@ -1,0 +1,38 @@
+[
+  {
+    "fields": {
+      "name": "Proyector"
+    },
+    "model": "rooms.supplies"
+  },
+  {
+    "fields": {
+      "name": "Pizarron"
+    },
+    "model": "rooms.supplies"
+  },
+  {
+    "fields": {
+      "name": "Disponible"
+    },
+    "model": "rooms.states"
+  },
+  {
+    "fields": {
+      "name": "Reservada"
+    },
+    "model": "rooms.states"
+  },
+  {
+    "fields": {
+      "name": "No Disponible"
+    },
+    "model": "rooms.states"
+  },
+  {
+    "fields": {
+      "name": "Confirmada"
+    },
+    "model": "rooms.states"
+  }
+]
